@@ -1,0 +1,4 @@
+Comandos terminal VSC
+
+ni teste.txt -> cria um arquivo sem abrir
+code -r teste.txt -> abre um arquivo novo (semelhante a criar)
